@@ -1,6 +1,7 @@
 # RPA-Invoice-Data-Extraction-and-Email-Automation
 
 Main Objectives:
+
 ● To Implement RPA techniques to read text from images
 
 ● Extract information from many invoice photos in a folder and add them to excel sheets
